@@ -34,7 +34,7 @@ class CommitChecker:
             with open(self.commit_history_file, "r") as file:
                 return json.load(file)
         except (json.JSONDecodeError, FileNotFoundError) as e:
-                print(f"error {e}")
+                return []
 
     def save_commit_history(self, history):
         with open(self.commit_history_file, "w") as file:
