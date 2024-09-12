@@ -30,7 +30,8 @@ As per the assignment the script should execute using a cron job.
 Step 1:
 Create a Crontab file if it is not already existed. use ``crontab -e`` command to open the file.
 ```
-0 * * * * /path/to/your/python path/to/this/project/script.py >> home/path/checker.log 2  >&1 ```
+0 * * * * /path/to/your/python path/to/this/project/script.py >> home/path/checker.log 2  >&1
+```
 
  add a job with the correct paths to your python library and the the script.py in this project and save.
 - The above cronjob will execute every hour and check for the new commits, if there are new commits then it will execute the copy_files.sh file.
