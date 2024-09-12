@@ -1,1 +1,38 @@
-[{"sha": "532854c882db09acb0b3a9ce35b192f85a6bfcab", "message": "my first commit", "author": "prasanna-konduri", "date": "2024-07-13T05:45:49+00:00"}, {"sha": "baee3bf0c5edd0e8df0684be3f621357416926ee", "message": "Update README.md", "author": "PrasannaK1206", "date": "2024-07-13T05:42:23+00:00"}, {"sha": "530feafdb1a523d7dc17b40dad2c435db75ac582", "message": "Initial commit", "author": "PrasannaK1206", "date": "2024-07-13T05:41:42+00:00"}]
+[
+  {
+    "sha": "532854c882db09acb0b3a9ce35b192f85a6bfcab",
+    "message": "my first commit",
+    "author": "prasanna-konduri",
+    "date": "2024-07-13T05:45:49+00:00"
+  },
+  {
+    "sha": "baee3bf0c5edd0e8df0684be3f621357416926ee",
+    "message": "Update README.md",
+    "author": "PrasannaK1206",
+    "date": "2024-07-13T05:42:23+00:00"
+  },
+  {
+    "sha": "530feafdb1a523d7dc17b40dad2c435db75ac582",
+    "message": "Initial commit",
+    "author": "PrasannaK1206",
+    "date": "2024-07-13T05:41:42+00:00"
+  },
+  {
+    "sha": "b5dc4611a45c81e317fd31875f5e424a51c1a4e1",
+    "message": "commit checker files",
+    "author": "prasanna-konduri",
+    "date": "2024-09-07T18:05:50+00:00"
+  },
+  {
+    "sha": "219193c865e4bf6c6bed08fcd25363d446872b67",
+    "message": "added git ignore file and removed .env",
+    "author": "prasanna-konduri",
+    "date": "2024-09-07T19:04:19+00:00"
+  },
+  {
+    "sha": "42dc7a06f50e5c8de20e63b25de1615acb7a6d47",
+    "message": "Added bash script to pull and restart service",
+    "author": "prasanna-konduri",
+    "date": "2024-09-07T18:48:09+00:00"
+  }
+]
