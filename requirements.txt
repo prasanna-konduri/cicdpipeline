@@ -1,0 +1,4 @@
+Flask==3.0.3
+PyGithub==2.3.0
+PyGithub==2.4.0
+python-dotenv==1.0.1
