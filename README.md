@@ -41,8 +41,7 @@ Create a Crontab file if it is not already existed. use ``crontab -e`` command t
   
 
 ### Sample out put:
-- After the Set Up an Local Linux Instance with Nginx
-  Ran the application through flask and set up a proxyserver.
+- After the Set Up an Local Linux Instance with Nginx Ran the application through flask and set up a proxyserver. Plase follow the [link](https://github.com/prasanna-konduri/Project_Deployment_localhost) for this set up
 
 <img width="600" alt="Screenshot 2024-09-08 at 1 42 49 AM" src="https://github.com/user-attachments/assets/ea94a48d-e43a-4e91-94b2-b386597113de">
 
