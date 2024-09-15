@@ -7,7 +7,7 @@ class GitAuth:
         self.repo_name = repo_name
 
     def authorise(self):
-        auth = Auth.Token(self.auth_token) #"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"
+        auth = Auth.Token(self.auth_token) 
 
         # Public Web Github
         self.git = Github(auth=auth)
